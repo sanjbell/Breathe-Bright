@@ -1,1 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(IMG/backgroundIMG.png);
+    font-family: "Forum", serif;
+    font-weight: 0;
+    /*color: #263F28;*/
+    color:#2E0028;
+}
+
+.container a {
+    padding-top: 65px;
+    display: inline-block;
+    margin-right: 100px;
+    text-decoration: none;
+    /*color: #263F28;*/
+    color: #2E0028;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    float: right;
+}
+
+.logo img {
+    margin-top: -150px;
+    margin-left: -200px;
+}
+
+.title {
+    margin-top: -80px;
+    font-size: 100px;
+    /*color: #263F28;*/
+    color:#2E0028;
+}
+
+.heal button {
+    font-family: "Forum", serif;
+    font-size: 1.2em;
+    display: block;
+    margin: auto;
+    background-color: transparent;
+    border: 1px solid;
+    border-radius: 5px;
+    color: #2E0028;
+    height: 50px;
+    width: 200px;
+}
+
+.heal a {
+    text-decoration: none;
+    color: #2E0028;
+}
