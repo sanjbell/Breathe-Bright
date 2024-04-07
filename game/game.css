@@ -1,5 +1,5 @@
 body {
-    background: url(IMG/gameIMG.png);
+    background-image: url(IMG/gameIMG.png);
 }
 
 .screen1 p {
