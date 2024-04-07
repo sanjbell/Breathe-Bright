@@ -1,0 +1,16 @@
+body {
+    background: url(IMG/gameIMG.png);
+}
+
+.screen1 p {
+    margin-left: 200px;
+    margin-top: 300px;
+    font-size: 100px;
+    color:#F99393;
+}
+
+.click {
+    
+    font-size: 50px;
+    color:#F99393;
+}
