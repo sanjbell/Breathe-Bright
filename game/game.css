@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Forum&display=swap');
+
 body {
-    background: url(IMG/gameIMG.png);
+    background-image: url(IMG/gameIMG.png);
+    background-size: cover;
+    font-family: "Forum", serif;
 }
 
 .screen1 p {
