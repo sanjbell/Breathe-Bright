@@ -6,6 +6,7 @@ html {
 
 body {
     background-image: url(IMG/backgroundIMG.png);
+    background-size: cover;
     font-family: "Forum", serif;
     font-weight: 0;
     /*color: #263F28;*/
